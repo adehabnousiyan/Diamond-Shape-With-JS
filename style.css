@@ -1,0 +1,12 @@
+body {
+    width: 100%;
+    min-height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.star {
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+}
